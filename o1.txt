@@ -1,0 +1,6 @@
+sort_a: 0.001852 s
+sort_i: 0.001616 s
+sort_p: 0.001395 s
+sort_c: 0.001046 s
+sort_m: 0.000932 s
+sort_f: 0.000903 s
