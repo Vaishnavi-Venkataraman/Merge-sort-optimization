@@ -30,11 +30,11 @@ make             # Optimized build (DEBUG=0)
 make DEBUG=1     # Debug build with -g
 ./sort 10000 10  # Run and benchmark
 
-(visualization)
+#(visualization)
 python3 res1.py   # For DEBUG=1 data
 python3 res2.py   # For DEBUG=0 data
 
-(profiling)
+#(profiling)
 perf stat ./sort 10000 10
 valgrind --tool=cachegrind ./sort 10000 10
 cg_annotate cachegrind.out.* > report.txt
