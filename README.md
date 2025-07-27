@@ -5,7 +5,7 @@ This project is based on:
 > **Performance Engineering of Software Systems**  
 > Massachusetts Institute of Technology (MIT) – **6.172**  
 > Professors: *Charles E. Leiserson* and *Julian Shun*  
-> Homework 2: Profiling Serial Merge Sort*
+> Homework 2: Profiling Serial Merge Sort
 
 ---
 
